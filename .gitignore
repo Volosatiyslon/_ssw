@@ -1,0 +1,12 @@
+/.vscode
+/configuration
+__pycache__
+/.idea
+/env/
+/recycle
+/.env.prod.local
+/.env.dev.local
+/recycle/
+/venv*
+requirements.txt
+/vendor
